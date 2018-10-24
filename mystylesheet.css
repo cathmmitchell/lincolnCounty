@@ -1,0 +1,21 @@
+.bodytext{
+  text-align:center;
+}
+
+body{
+  background-color: lightblue;
+  font-family: verdana
+}
+
+img{
+  height:50%;
+}
+
+#imgsection{
+  text-align: center;
+}
+
+#headers, #hikinghead, #siteseeinghead, #onthewaterhead{
+  text-align: center;
+  color: darkblue;
+}

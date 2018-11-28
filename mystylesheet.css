@@ -1,21 +1,25 @@
-.bodytext{
-  text-align:center;
-}
-
-body{
-  background-color: lightblue;
-  font-family: verdana
-}
-
-img{
-  height:50%;
-}
-
-#imgsection{
+.bodytext {
   text-align: center;
 }
 
-#headers, #hikinghead, #siteseeinghead, #onthewaterhead{
+body {
+  background-color: lightblue;
+  font-family: verdana;
+}
+
+img {
+  height: 50%;
+}
+
+#imgsection {
+  text-align: center;
+}
+
+#headers,
+#hikinghead,
+#siteseeinghead,
+#onthewaterhead,
+#shoppinghead {
   text-align: center;
   color: darkblue;
 }

@@ -21,3 +21,7 @@ function water() {
 function shopping() {
   window.location.href = "shopping.html";
 }
+
+function towns() {
+  window.location.href = "towns.html";
+}
